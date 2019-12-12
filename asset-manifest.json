@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Avatar-webpage-react/static/css/main.4772b139.chunk.css",
+    "main.js": "/Avatar-webpage-react/static/js/main.1f8bbb51.chunk.js",
+    "main.js.map": "/Avatar-webpage-react/static/js/main.1f8bbb51.chunk.js.map",
+    "runtime-main.js": "/Avatar-webpage-react/static/js/runtime-main.6b3a6912.js",
+    "runtime-main.js.map": "/Avatar-webpage-react/static/js/runtime-main.6b3a6912.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Avatar-webpage-react/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.9f94a17a.chunk.js": "/Avatar-webpage-react/static/js/2.9f94a17a.chunk.js",
+    "static/js/2.9f94a17a.chunk.js.map": "/Avatar-webpage-react/static/js/2.9f94a17a.chunk.js.map",
+    "index.html": "/Avatar-webpage-react/index.html",
+    "precache-manifest.3937f650431d83cac468ae08e3e5405f.js": "/Avatar-webpage-react/precache-manifest.3937f650431d83cac468ae08e3e5405f.js",
+    "service-worker.js": "/Avatar-webpage-react/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Avatar-webpage-react/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.4772b139.chunk.css.map": "/Avatar-webpage-react/static/css/main.4772b139.chunk.css.map",
+    "static/js/2.9f94a17a.chunk.js.LICENSE": "/Avatar-webpage-react/static/js/2.9f94a17a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b3a6912.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.9f94a17a.chunk.js",
+    "static/css/main.4772b139.chunk.css",
+    "static/js/main.1f8bbb51.chunk.js"
+  ]
+}
